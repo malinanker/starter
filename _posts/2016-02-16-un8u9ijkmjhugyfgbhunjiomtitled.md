@@ -2,10 +2,12 @@
 layout: blog
 category: blog
 splash: ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: Un8u9ijkmjhugyfgbhunjiomtitled
 ---
+
 
 ## A New Post
 
